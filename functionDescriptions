@@ -1,0 +1,7 @@
+function x = f(a)
+    x = 3*a - a.^3;
+end
+
+function x = cosx(a)
+    x = cos(a);
+end
